@@ -1,0 +1,62 @@
+body {
+    font-size: 15pt;
+background-image: url(background.png);
+background-repeat: no-repeat;
+background-size: cover;
+ background-attachment: fixed;
+ 
+
+  
+}
+.appboxa{border: 3px solid black;
+  break-inside: avoid;
+  page-break-inside: avoid;
+box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+border-radius:10px;
+height:120px ;
+  padding:15px;
+  margin: 0 0 1em 0;
+  width:120px;
+}
+.T {
+  color: red;
+  font-size: 10px auto;
+  font-size: larger;
+}
+.srboxlogo{border: 3px solid black;
+text-align: center;
+font-size:10px auto;
+/*font-size: smaller;*/
+border-radius: 25px ;
+font-size: x-large;
+ box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.image{ width:110px;
+  height:110px;
+border: 4px solid black;
+box-shadow:  0 4px 9px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+}
+
+.bookname{
+  text-align: center;
+  position:relative;
+  bottom:60px;
+  
+}
+.scb{height:150px;
+width:150px;
+border:2px solid black;
+font:16px/26px Georgia, Garamond, Serif;
+overflow:auto;
+border-radius: 50%;
+
+box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.2),
+  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius:10px;
+  padding:15px;
+  margin: 0 0 1em 0;
+}
