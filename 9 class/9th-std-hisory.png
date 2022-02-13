@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="book.css">
+</head>
+
+<body>
+  <div><h1 class="srboxl">
+      <img src="technology.png" style="width: 30px auto;height:30px ;position: relative;top: 5px ;">
+<span class="T">T</span>ECHNOLOGY<span class="T">SR</span>
+<img src="technology.png" style="width: 30px auto;height:30px ; position:relative;top:5px ;">  
+</h1></div>
+<center>
+  <!---book---->
+  
+<div class="scb">
+  <div class="appboxa"><center>
+<a href="app1.html"><img src="/9 class/9th-Std-Marathi-.png" class="image"/>
+ </a>   <button class="button-29" role="button" onclick="window.location.href = 'https://mpscbook.com/eedralro/2020/10/Maharashtra-State-Board-9th-Std-Marathi-Textbook.pdf';">Download</button> <h3 class="bookname"><span class="T">8</span> class</h3>
+ </center>
+</div>
+
+<div class="appboxa"><center>
+<a href="app1.html"><img src="/9 class/9th-Std-English-.png" class="image"/>
+ </a>   <button class="button-29" role="button" onclick="window.location.href = 'https://mpscbook.com/eedralro/2020/10/Maharashtra-State-Board-9th-Std-English-Textbook.pdf';">Download</button> <h3 class="bookname"><span class="T">8</span> class</h3>
+ </center>
+</div>
+
+<div class="appboxa"><center>
+<a href="app1.html"><img src="/9 class/9th-Std-Hindi-.png" class="image"/>
+ </a>   <button class="button-29" role="button" onclick="window.location.href = 'https://mpscbook.com/eedralro/2020/10/Maharashtra-State-Board-9th-Std-Hindi-Textbook.pdf';">Download</button> <h3 class="bookname"><span class="T">8</span> class</h3>
+ </center>
+</div>
+
+<div class="appboxa"><center>
+<a href="app1.html"><img src="/9 class/9th-Std-Science.png" class="image"/>
+ </a>   <button class="button-29" role="button" onclick="window.location.href = 'https://mpscbook.com/eedralro/2020/10/Maharashtra-State-Board-9th-Std-Science-Textbook.pdf';">Download</button> <h3 class="bookname"><span class="T">8</span> class</h3>
+ </center>
+</div>
+
+<div class="appboxa"><center>
+<a href="app1.html"><img src="/9 class/9th-Std-Maths-Part-1.png" class="image"/>
+ </a>   <button class="button-29" role="button" onclick="window.location.href = 'https://mpscbook.com/eedralro/2020/10/Maharashtra-State-Board-9th-Std-Maths-Part-1-Textbook.pdf';">Download</button> <h3 class="bookname"><span class="T">8</span> class</h3>
+ </center>
+</div>
+
+<div class="appboxa"><center>
+<a href="app1.html"><img src="/9 class/9th-Std-Maths-Part-2-.png" class="image"/>
+ </a>   <button class="button-29" role="button" onclick="window.location.href = 'https://mpscbook.com/eedralro/2020/10/Maharashtra-State-Board-9th-Std-Maths-Part-2-Textbook.pdf';">Download</button> <h3 class="bookname"><span class="T">8</span> class</h3>
+ </center>
+</div>
+
+<div class="appboxa"><center>
+<a href="app1.html"><img src="/9 class/9th-std-history.png" class="image"/>
+ </a>   <button class="button-29" role="button" onclick="window.location.href = 'https://mpscbook.com/eedralro/2020/10/Maharashtra-State-Board-9th-Std-History-and-Political-Science-Textbook.pdf';">Download</button> <h3 class="bookname"><span class="T">8</span> class</h3>
+ </center>
+</div>
+
+<div class="appboxa"><center>
+<a href="app1.html"><img src="/9 class/9th-Std-Geography-.png" class="image"/>
+ </a>   <button class="button-29" role="button" onclick="window.location.href = 'https://mpscbook.com/eedralro/2020/10/Maharashtra-State-Board-9th-Std-Geography-Textbook.pdf';">Download</button> <h3 class="bookname"><span class="T">8</span> class</h3>
+ </center>
+</div>
+
+</div>
+</center>
+
+
+</body>
+
+</html>
